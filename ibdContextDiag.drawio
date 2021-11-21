@@ -1,21 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T21:48:20.595Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="OO9x6lVGFi6JyVmiSXvO" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T21:56:16.229Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2wIKVmcAldQfrFN8Gzj-" version="15.8.3" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="4063" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 4px 0px 0px 10px ; text-align: left ; font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;bdd&lt;/b&gt; [Internal Block Diagram] Diagrama de contexto&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=14;align=center;labelX=342.5;" parent="1" vertex="1">
           <mxGeometry x="170" y="100" width="1340" height="895" as="geometry" />
         </mxCell>
-        <mxCell id="Nsw7TsLwHat9_7TwNP2g-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-7" target="Nsw7TsLwHat9_7TwNP2g-3">
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=17;strokeWidth=4;startArrow=classic;startFill=1;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-7" target="Nsw7TsLwHat9_7TwNP2g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-39" value="Escolhas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;rotation=-30;" vertex="1" connectable="0" parent="Nsw7TsLwHat9_7TwNP2g-28">
+          <mxGeometry x="0.2357" relative="1" as="geometry">
+            <mxPoint x="41" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-40" value="Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Nsw7TsLwHat9_7TwNP2g-28">
+          <mxGeometry x="-0.5743" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://solucaoepi.com.br/images/tickets/usuarios.png;" vertex="1" parent="1">
-          <mxGeometry x="230" y="215" width="140.52" height="140" as="geometry" />
+          <mxGeometry x="230" y="200" width="155.58" height="155" as="geometry" />
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" target="Nsw7TsLwHat9_7TwNP2g-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1300" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-43" value="Temperatura externa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Nsw7TsLwHat9_7TwNP2g-31">
+          <mxGeometry x="0.1094" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/weather-icon-png-2.png;" vertex="1" parent="1">
@@ -24,10 +39,15 @@
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-18" target="Nsw7TsLwHat9_7TwNP2g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-41" value="Condições iniciais" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Nsw7TsLwHat9_7TwNP2g-26">
+          <mxGeometry x="-0.1835" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png;" vertex="1" parent="1">
           <mxGeometry x="220" y="685" width="318.09" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Nsw7TsLwHat9_7TwNP2g-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-19" target="Nsw7TsLwHat9_7TwNP2g-3">
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-29" value="Umidade" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-19" target="Nsw7TsLwHat9_7TwNP2g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1582/1582784.png;" vertex="1" parent="1">
@@ -38,6 +58,11 @@
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=17;strokeWidth=4;" edge="1" parent="1" source="Nsw7TsLwHat9_7TwNP2g-25" target="Nsw7TsLwHat9_7TwNP2g-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nsw7TsLwHat9_7TwNP2g-42" value="Temperatura interna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Nsw7TsLwHat9_7TwNP2g-30">
+          <mxGeometry x="-0.0932" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.grupople.com.br/estacao/img/icon_temperatura.png;" vertex="1" parent="1">
           <mxGeometry x="940" y="795" width="132" height="110" as="geometry" />
@@ -67,7 +92,7 @@
           <mxGeometry x="170" y="375" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nsw7TsLwHat9_7TwNP2g-38" value="Umidade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1190" y="365" width="340" height="30" as="geometry" />
+          <mxGeometry x="1239" y="365" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
