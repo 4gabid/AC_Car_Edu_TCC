@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T18:24:29.839Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="khpwT6f0yEkjGn77_UrE" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T18:50:27.045Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GLlxngFFMYLxmwcMqCWP" version="15.8.3" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -138,13 +138,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve manter a cabine do veículo na temperatura escolhida dentro dos limites pré definidos.&quot;&lt;br&gt;Id=&quot;111.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;O sistema deve manter a cabine do veículo na temperatura escolhida dentro dos limites pré definidos.&quot;&lt;/span&gt;&lt;br&gt;Id=&quot;111.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="330" y="500" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0hMe8zT--C_qmLiAyMyf-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Ilustrativo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário simule diversas condições externas e visualize a dinâmica.&quot;&lt;br&gt;Id=&quot;211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="330" y="650" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="D09AOkVMXNukeP8XSCzx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.032;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-33">
+        <mxCell id="D09AOkVMXNukeP8XSCzx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.032;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="319.91999999999985" y="460" as="sourcePoint" />
             <Array as="points">
