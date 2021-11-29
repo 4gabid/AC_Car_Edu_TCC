@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T17:56:03.259Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="0TX2BECYzwwje79fw5rE" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T17:56:26.393Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="jgT8C8xRGOyHxtbEVMym" version="15.8.3" type="github">
   <diagram id="G2_i2lJ-f3b6qj_kGdwk" name="Page-1">
-    <mxGraphModel dx="2214" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4429" dy="2386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="455" y="410" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-23" value="Recirculação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="540" width="215" height="60" as="geometry" />
+          <mxGeometry x="460" y="540" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-29" value="Controle da velocidade do ventilador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="620" width="215" height="60" as="geometry" />
@@ -230,7 +230,7 @@
           <mxGeometry x="150" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-135" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Pré condição&lt;/h1&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Veículo ligado;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;font-size: 12px&quot;&gt;Cenário Principal&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1- Usuário escolhe&amp;nbsp; a saída de ar desejada;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; 1.1- Os direcionadores de ar são ativados, permitindo a saída de ar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=17;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="890" width="500" height="240" as="geometry" />
+          <mxGeometry x="1000" y="890" width="500" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
