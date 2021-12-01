@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T16:35:57.422Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="XmgTMt0Bb49_Qld_GZ3X" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T16:36:07.364Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="6E5cAea5XFexy7P_mZZ9" version="15.8.3" type="github">
   <diagram id="G2_i2lJ-f3b6qj_kGdwk" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-2" value="Sistema de Ar Condcionado" style="whiteSpace=wrap;aspect=fixed;imageAspect=0;html=1;verticalAlign=top;align=left;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="150" y="290" width="535" height="535" as="geometry" />
+          <mxGeometry x="150" y="290" width="550" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Q2j6FMPa0fHBLMqs2ytp-1" target="Q2j6FMPa0fHBLMqs2ytp-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry x="455" y="410" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-23" value="Recirculação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="587.5" width="215" height="60" as="geometry" />
+          <mxGeometry x="470" y="587.5" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2j6FMPa0fHBLMqs2ytp-29" value="Controle da velocidade do ventilador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="650" width="215" height="60" as="geometry" />
