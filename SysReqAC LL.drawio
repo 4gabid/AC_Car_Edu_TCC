@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T18:24:37.291Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="cbL6n2tpgkBZkZGQNI45" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T03:00:23.700Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IOBnhRXc0ktlqgM1k1yW" version="15.8.3" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-45" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;v&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-45" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;v&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
           <mxGeometry x="62" y="1270" width="1630" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;[requirement] AC_High Level req [Stakehold needs]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
           <mxGeometry x="70" y="50" width="1630" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=circlePlus;startFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-4">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=circlePlus;startFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-5">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-2">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-1" target="0hMe8zT--C_qmLiAyMyf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Declaração de Missão&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Desenvolver um sistema embarcado que simule a interação de um sistema de refrigeração com um veículo, contando com uma interface com o usuário semelhante a de um carro, utilizando ferramentas educaionais de fácil compreensão, que permitam alterações e melhorias no sistema”&lt;br&gt;Id=&quot;R001&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Declaração de Missão&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Desenvolver um sistema embarcado que simule a interação de um sistema de refrigeração com um veículo, contando com uma interface com o usuário semelhante a de um carro, utilizando ferramentas educaionais de fácil compreensão, que permitam alterações e melhorias no sistema”&lt;br&gt;Id=&quot;R001&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="580" y="160" width="630" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.031;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-32">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.031;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="460" as="sourcePoint" />
             <Array as="points">
@@ -30,24 +30,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-33">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-2" target="0hMe8zT--C_qmLiAyMyf-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Educacional&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve ser facilmente alterado e a simulação deve permitir a demonstração de diversas situações&quot;&lt;br&gt;Id=&quot;R011.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Educacional&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve ser facilmente alterado e a simulação deve permitir a demonstração de diversas situações&quot;&lt;br&gt;Id=&quot;R011.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="300" y="330" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-4" target="0hMe8zT--C_qmLiAyMyf-13">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-4" target="0hMe8zT--C_qmLiAyMyf-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-10">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="709.9999999999998" y="470" as="targetPoint" />
             <Array as="points">
@@ -55,86 +55,86 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Conforto térmico&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve simular o sistema de ar condicionado de um veículo de passeio.&quot;&lt;br&gt;Id=&quot;R021.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Conforto térmico&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve simular o sistema de ar condicionado de um veículo de passeio.&quot;&lt;br&gt;Id=&quot;R021.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="700" y="340" width="345" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-15">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-11">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-12">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-16">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-5" target="0hMe8zT--C_qmLiAyMyf-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interface com o usuário&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com usuário deve se assemelhar ao painel de veículo de passeio&quot;&lt;br&gt;Id=&quot;R031.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interface com o usuário&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com usuário deve se assemelhar ao painel de veículo de passeio&quot;&lt;br&gt;Id=&quot;R031.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1110" y="330" width="330" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve manter a cabine do veículo na temperatura escolhida dentro dos limites pré definidos.&quot;&lt;br&gt;Id=&quot;R121.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve manter a cabine do veículo na temperatura escolhida dentro dos limites pré definidos.&quot;&lt;br&gt;Id=&quot;R121.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="745" y="510" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-11" target="0hMe8zT--C_qmLiAyMyf-13">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-11" target="0hMe8zT--C_qmLiAyMyf-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-40" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-39">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-40" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#C7FFFB;" parent="0hMe8zT--C_qmLiAyMyf-39" vertex="1" connectable="0">
           <mxGeometry x="0.3104" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir o controle de velocidade do ventilador dentre os valores possíveis.&quot;&lt;br&gt;Id=&quot;R231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir o controle de velocidade do ventilador dentre os valores possíveis.&quot;&lt;br&gt;Id=&quot;R231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1140" y="660" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-12" target="0hMe8zT--C_qmLiAyMyf-14">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-12" target="0hMe8zT--C_qmLiAyMyf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-43" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-41">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-43" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#C7FFFB;" parent="0hMe8zT--C_qmLiAyMyf-41" vertex="1" connectable="0">
           <mxGeometry x="0.2295" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da direção do ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário escolha a direção da circulação do ar dentro das opções disponíveis.&quot;&lt;br&gt;Id=&quot;R331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da direção do ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário escolha a direção da circulação do ar dentro das opções disponíveis.&quot;&lt;br&gt;Id=&quot;R331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1140" y="810" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O ventilador deve funcionar na velocidade escolhida pelo usuário.&quot;&lt;br&gt;Id=&quot;R221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O ventilador deve funcionar na velocidade escolhida pelo usuário.&quot;&lt;br&gt;Id=&quot;R221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="745" y="660" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direcionadores de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Os direcionadores de ar devem abrir e fechar para as direções especificadas.&quot;&lt;br&gt;Id=&quot;R321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direcionadores de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Os direcionadores de ar devem abrir e fechar para as direções especificadas.&quot;&lt;br&gt;Id=&quot;R321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="745" y="800" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-15" target="0hMe8zT--C_qmLiAyMyf-10">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;dashed=1;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-15" target="0hMe8zT--C_qmLiAyMyf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-38" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-37">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-38" value="derive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#C7FFFB;" parent="0hMe8zT--C_qmLiAyMyf-37" vertex="1" connectable="0">
           <mxGeometry x="-0.0958" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O usuário deve ser capaz de escolher a temperatura desejada dentro dos limites possíveis.&quot;&lt;br&gt;Id=&quot;R131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O usuário deve ser capaz de escolher a temperatura desejada dentro dos limites possíveis.&quot;&lt;br&gt;Id=&quot;R131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1140" y="500" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Indicação do estado atual&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve indicar a temperatura externa ao veículo&quot;&lt;br&gt;Id=&quot;R431.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Indicação do estado atual&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve indicar a temperatura externa ao veículo&quot;&lt;br&gt;Id=&quot;R431.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1140" y="960" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.198;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=circlePlus;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-14">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.198;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=circlePlus;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="735" y="570" as="sourcePoint" />
             <mxPoint x="710" y="460.0000000000001" as="targetPoint" />
@@ -143,119 +143,194 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-24" value="&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-23">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-24" value="&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#C7FFFB;" parent="0hMe8zT--C_qmLiAyMyf-23" vertex="1" connectable="0">
           <mxGeometry x="0.1221" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve ser desenvolvido usando ferramentas educacionais de código aberto&quot;&lt;br&gt;Id=&quot;R111.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Open Source&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve ser desenvolvido usando ferramentas educacionais de código aberto&quot;&lt;br&gt;Id=&quot;R111.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="330" y="500" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interativo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário simule diversas condições externas e visualize a dinâmica.&quot;&lt;br&gt;Id=&quot;R211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interativo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário simule diversas condições externas e visualize a dinâmica.&quot;&lt;br&gt;Id=&quot;R211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="330" y="650" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-47" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Interativo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário simule diversas condições externas e visualize a dinâmica.&quot;&lt;br&gt;Id=&quot;R211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-47" target="0hMe8zT--C_qmLiAyMyf-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.1;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-47" target="0hMe8zT--C_qmLiAyMyf-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="0hMe8zT--C_qmLiAyMyf-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1854" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-47" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Interativo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário simule diversas condições externas e visualize a dinâmica.&quot;&lt;br&gt;Id=&quot;R211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="160" y="1350" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-48" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura Externa&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve permitir a escolha da temperatura externa entre -30º e 75ºC&quot;&lt;br&gt;Id=&quot;S1211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1520" width="300" height="120" as="geometry" />
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-48" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura Externa&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve permitir a escolha da temperatura externa entre -30º e 75ºC&quot;&lt;br&gt;Id=&quot;S1211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1510" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-49" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve permitir a escolha da umidade dentro da cabine entre 0 e 100%&quot;&lt;br&gt;Id=&quot;S2211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1660" width="300" height="120" as="geometry" />
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-49" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve permitir a escolha da umidade dentro da cabine entre 0 e 100%&quot;&lt;br&gt;Id=&quot;S2211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1640" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-50" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Visualização da dinâmica&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve exibir a temperatura interna da cabine e a umidade.&quot;&lt;br&gt;Id=&quot;S3211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1810" width="300" height="120" as="geometry" />
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-50" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Visualização da dinâmica&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A interface com o usuário deve exibir a temperatura interna da cabine e a umidade.&quot;&lt;br&gt;Id=&quot;S3211.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1805" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-51" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle do compressor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A ECU de conforto deve controlar o funcionamento do compressor para manter a temperatura no valor escolhido dentro dos limites permitidos&quot;&lt;br&gt;Id=&quot;S1121.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.048;exitY=1.007;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-51" target="0hMe8zT--C_qmLiAyMyf-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.048;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-51" target="0hMe8zT--C_qmLiAyMyf-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646" y="1455" />
+              <mxPoint x="646" y="1555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-51" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle do compressor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A ECU de conforto deve controlar o funcionamento do compressor para manter a temperatura no valor escolhido dentro dos limites permitidos&quot;&lt;br&gt;Id=&quot;S1121.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="1284" width="330" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-52" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O usuário deve ser capaz de escolher a temperatura desejada dentro dos limites possíveis.&quot;&lt;br&gt;Id=&quot;R131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.045;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-52" target="0hMe8zT--C_qmLiAyMyf-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="1430" />
+              <mxPoint x="1134" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-52" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O usuário deve ser capaz de escolher a temperatura desejada dentro dos limites possíveis.&quot;&lt;br&gt;Id=&quot;R131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1290" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-53" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Temperatura máxima&amp;nbsp; = &quot;&lt;br&gt;Id=&quot;S1121-CT1.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-53" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Temperatura máxima&amp;nbsp; = 30ºC&quot;&lt;br&gt;Id=&quot;S1121-CT1.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="1410" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-54" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura minima&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Temperatura minima = &quot;&lt;br&gt;Id=&quot;S1121-CT2.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-54" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Temperatura minima&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Temperatura minima = 15ºC &quot;&lt;br&gt;Id=&quot;S1121-CT2.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="1510" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-55" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O ventilador deve funcionar na velocidade escolhida pelo usuário.&quot;&lt;br&gt;Id=&quot;R221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.056;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-55" target="0hMe8zT--C_qmLiAyMyf-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.056;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-55" target="0hMe8zT--C_qmLiAyMyf-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-55" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O ventilador deve funcionar na velocidade escolhida pelo usuário.&quot;&lt;br&gt;Id=&quot;R221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="620" y="1610" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-57" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Velocidade máxima&amp;nbsp; =&amp;nbsp; 5&quot;&lt;br&gt;Id=&quot;S1221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-57" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Velocidade máxima&amp;nbsp; =&amp;nbsp; 5&quot;&lt;br&gt;Id=&quot;S1221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="1720" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-58" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Velocidade minima&amp;nbsp; =&amp;nbsp; 1&quot;&lt;br&gt;Id=&quot;S2221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-58" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Velocidade máxima&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Velocidade minima&amp;nbsp; =&amp;nbsp; 1&quot;&lt;br&gt;Id=&quot;S2221.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="1820" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circlePlus;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-59">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circlePlus;endFill=0;labelBackgroundColor=#C7FFFB;" parent="1" source="0hMe8zT--C_qmLiAyMyf-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-59" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A umidade dentro da cabine deve ser mantida no valor adequado.&quot;&lt;br&gt;Id=&quot;R421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-59" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A umidade dentro da cabine deve ser mantida no valor adequado.&quot;&lt;br&gt;Id=&quot;R421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="745" y="950" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-63" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A umidade dentro da cabine deve ser mantida no valor adequado.&quot;&lt;br&gt;Id=&quot;R421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2130" width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-64" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direcionadores de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Os direcionadores de ar devem abrir e fechar para as direções especificadas.&quot;&lt;br&gt;Id=&quot;R321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1920" width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-66" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direções possíveis&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Direções possíveis&amp;nbsp; =&amp;nbsp; Parabrisa, centro e pés&quot;&lt;br&gt;Id=&quot;S1321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2030" width="300" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-67" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade minima&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Umidade mínima&amp;nbsp; = 80%&quot;&lt;br&gt;Id=&quot;S2421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2370" width="300" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-69" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Recirculador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O recirculador deve ser ativado se a umidade estiver abaixo da mínima&quot;&lt;br&gt;Id=&quot;S1421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2250" width="300" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=open;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-70" target="0hMe8zT--C_qmLiAyMyf-53">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.06;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-63" target="0hMe8zT--C_qmLiAyMyf-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-72" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-71">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.059;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-63" target="0hMe8zT--C_qmLiAyMyf-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-63" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;A umidade dentro da cabine deve ser mantida no valor adequado.&quot;&lt;br&gt;Id=&quot;R421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2130" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.059;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-64" target="0hMe8zT--C_qmLiAyMyf-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-64" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direcionadores de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Os direcionadores de ar devem abrir e fechar para as direções especificadas.&quot;&lt;br&gt;Id=&quot;R321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1920" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-66" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Direções possíveis&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Direções possíveis&amp;nbsp; =&amp;nbsp; Parabrisa, centro e pés&quot;&lt;br&gt;Id=&quot;S1321.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2030" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-67" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umidade minima&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Umidade mínima&amp;nbsp; = 80%&quot;&lt;br&gt;Id=&quot;S2421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2370" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-69" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Recirculador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O recirculador deve ser ativado se a umidade estiver abaixo da mínima&quot;&lt;br&gt;Id=&quot;S1421.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2250" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=open;startFill=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="0hMe8zT--C_qmLiAyMyf-70" target="0hMe8zT--C_qmLiAyMyf-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-72" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0hMe8zT--C_qmLiAyMyf-71" vertex="1" connectable="0">
           <mxGeometry x="-0.1295" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-70" target="0hMe8zT--C_qmLiAyMyf-54">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" source="0hMe8zT--C_qmLiAyMyf-70" target="0hMe8zT--C_qmLiAyMyf-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-75" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-74">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-75" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0hMe8zT--C_qmLiAyMyf-74" vertex="1" connectable="0">
           <mxGeometry x="0.3329" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-70" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita que o aumentar e a diminuir a temperatura nos limites estabelecidos &quot;&lt;br&gt;Id=&quot;S1131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-70" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão temperatura&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita que o aumentar e a diminuir a temperatura nos limites estabelecidos &quot;&lt;br&gt;Id=&quot;S1131.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1430" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-76" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir o controle de velocidade do ventilador dentre os valores possíveis.&quot;&lt;br&gt;Id=&quot;R231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.033;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-76" target="0hMe8zT--C_qmLiAyMyf-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1131" y="1720" />
+              <mxPoint x="1131" y="1794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-76" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Controle de velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir o controle de velocidade do ventilador dentre os valores possíveis.&quot;&lt;br&gt;Id=&quot;R231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1580" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-77" target="0hMe8zT--C_qmLiAyMyf-57">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" source="0hMe8zT--C_qmLiAyMyf-77" target="0hMe8zT--C_qmLiAyMyf-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-81" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-78">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-81" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0hMe8zT--C_qmLiAyMyf-78" vertex="1" connectable="0">
           <mxGeometry x="0.5272" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-77" target="0hMe8zT--C_qmLiAyMyf-58">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" source="0hMe8zT--C_qmLiAyMyf-77" target="0hMe8zT--C_qmLiAyMyf-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-80" value="Refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0hMe8zT--C_qmLiAyMyf-79">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-80" value="Refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0hMe8zT--C_qmLiAyMyf-79" vertex="1" connectable="0">
           <mxGeometry x="0.135" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-77" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita que o aumentar e a diminuir a velocidade do ventilador nos limites estabelecidos &quot;&lt;br&gt;Id=&quot;S1231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-77" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão velocidade do ventilador&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita que o aumentar e a diminuir a velocidade do ventilador nos limites estabelecidos &quot;&lt;br&gt;Id=&quot;S1231.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1720" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-82" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da direção do ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário escolha a direção da circulação do ar dentro das opções disponíveis.&quot;&lt;br&gt;Id=&quot;R331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="Vznqy0p0KqisKGUw4TCo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.041;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0hMe8zT--C_qmLiAyMyf-82" target="0hMe8zT--C_qmLiAyMyf-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1128" y="2075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-82" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Escolha da direção do ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;O sistema deve permitir que o usuário escolha a direção da circulação do ar dentro das opções disponíveis.&quot;&lt;br&gt;Id=&quot;R331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#C7FFFB;" parent="1" vertex="1">
           <mxGeometry x="1115" y="1870" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0hMe8zT--C_qmLiAyMyf-83" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão direção de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita a escolha entre as direções de ar possíveis &quot;&lt;br&gt;Id=&quot;S1331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="2000" width="300" height="120" as="geometry" />
+        <mxCell id="0hMe8zT--C_qmLiAyMyf-83" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Botão direção de ar&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot; A interface&amp;nbsp; deve conter um botão que permita a escolha entre as direções de ar possíveis &quot;&lt;br&gt;Id=&quot;S1331.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="2015" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
